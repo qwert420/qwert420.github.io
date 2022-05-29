@@ -1,6 +1,7 @@
 body {
     padding: 8px;
-    background-color: rgb(230, 230, 230);
+    /*background-color: rgb(230, 230, 230);*/
+    background-color: lightblue;
 }
 .head {
     margin: auto;
