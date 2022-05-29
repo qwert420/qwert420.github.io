@@ -19,3 +19,9 @@ body {
     padding: 10px;
     background-color: white;
 }
+a:link, a:visited {
+    color: blue;
+}
+a:hover {
+    color: red;
+}
